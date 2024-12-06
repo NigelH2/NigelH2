@@ -1,6 +1,7 @@
-## Hi there 👋
-My name is Nigel! 
-I'm a current University of Washington Student studying Infromation Systems
+## Hi there my name is Nigel👋
+- UW Information Systems Student
+- Currently Working as an IT consultant @ UW
+- Pursuing UX design
 
 <!--
 **NigelH2/NigelH2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
